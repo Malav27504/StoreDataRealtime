@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144163507612",
+    "project_id": "store-data-realtime-6f142",
+    "storage_bucket": "store-data-realtime-6f142.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144163507612:android:a2b16ea45cfdd75a930c59",
+        "android_client_info": {
+          "package_name": "com.malav.storedatarealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv8FD26H3tmgiHLsd5H9eh4SLFcQ9dHfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
